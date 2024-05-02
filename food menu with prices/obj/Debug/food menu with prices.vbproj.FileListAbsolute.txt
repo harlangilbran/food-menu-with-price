@@ -1,0 +1,11 @@
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\bin\Debug\food menu with prices.exe.config
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\bin\Debug\food menu with prices.exe
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\bin\Debug\food menu with prices.pdb
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\bin\Debug\food menu with prices.xml
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\obj\Debug\food menu with prices.vbprojResolveAssemblyReference.cache
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\obj\Debug\food_menu_with_prices.Form1.resources
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\obj\Debug\food_menu_with_prices.Resources.resources
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\obj\Debug\food menu with prices.vbproj.GenerateResource.Cache
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\obj\Debug\food menu with prices.exe
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\obj\Debug\food menu with prices.xml
+C:\Users\harla\Documents\BHSPEMOGRAMAN2\food menu with prices\food menu with prices\obj\Debug\food menu with prices.pdb
